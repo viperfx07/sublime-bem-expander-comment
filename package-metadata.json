@@ -1,0 +1,12 @@
+{
+    "version":"1.0.0",
+    "url":"https://github.com/viperfx07/sublime-bem-expander-comment",
+    "platforms":[
+        "*"
+    ],
+    "dependencies":[
+
+    ],
+    "sublime_text":"*",
+    "description":"Based on Sublime SCSS Expander, BEM Expander will help to get the right comment syntax for Goto Symbol and Goto Definition features on Syntax Highlighting for SASS (https://github.com/P233/Syntax-highlighting-for-Sass#comment-tag)"
+}
